@@ -1,0 +1,1 @@
+[ ] Inserir e recuperar dados JSON das informações dos cartões
