@@ -4,21 +4,6 @@ import styled from "styled-components";
 // Loc Blocks //
 ////////////////
 
-// NavBar at the top
-export const NavigationBar = styled.div`
-    // Structure
-    display: flex;
-    flex-direction: row;
-
-    // Location
-    justify-content: center;
-
-    // Design
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .01), 0 4px 6px -2px rgba(0, 0, 0, .1);
-    // Color
-    //background-color: #4c3266;
-`;
-
 // Menu at the left side
 export const LeftMenu = styled.div`
     // Structure

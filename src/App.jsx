@@ -1,5 +1,5 @@
 // Project Imports
-import HomePageController from "./controllers/HomePageController";
+import HomePageController from "./Pages/HomePage/HomePageController";
 
 
 function App() {
