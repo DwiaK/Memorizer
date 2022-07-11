@@ -3,16 +3,9 @@ import React, { Component } from 'react';
 // Project Imports
 import { CardStyled } from './Card.Style';
 import { 
-    CenterButtonsWrapper, 
     CenterCardWrapper, 
-    CenterSpace, 
-    LeftLogoWrapper, 
-    LeftMenu, 
-    NavigationBar,
     TopCardWrapper,
-    RightButtonWrapper,
     BottomCardWrapper,
-    RightSpace
 } from './Card.Wrappers';
 
 // Import Component

@@ -2,17 +2,11 @@ import React, { Component } from "react";
 
 // Project Imports
 import { 
-    CenterButtonsWrapper, 
-    CenterCardWrapper, 
     CenterSpace, 
-    LeftLogoWrapper, 
     LeftMenu, 
-    NavigationBar,
-    TopCardWrapper,
     RightButtonWrapper,
-    BottomCardWrapper,
     RightSpace
-} from "./Main.Style";
+} from "./Main.Wrappers";
 
 // Import Components
 import { Card } from '../../Components/Card/Card';
